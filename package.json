@@ -1,0 +1,15 @@
+{
+  "name": "kimsufii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yago Pérez Sáiz <yago@yago.me>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^2.5.0",
+    "popsicle": "^8.0.4"
+  }
+}

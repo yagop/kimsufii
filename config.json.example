@@ -1,0 +1,10 @@
+{
+  "desireds": ["KS-2A", "KS-2E"],
+  "email": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "user": "root@gmail.com",
+    "password": "CorrectHorseBatteryStaple",
+    "to": "heckyeah@gmail.com"
+  }
+}

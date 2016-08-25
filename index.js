@@ -42,6 +42,8 @@ const processServers = servers => {
         subject: `Server ${desired} available ✔`,
         html: '<a href="https://www.kimsufi.com/es/servidores.xml">kimsufi</a>'
       });
+    } else {
+      console.log(`Server ${desired} not available`);
     }
   });
 };
